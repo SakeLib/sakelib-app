@@ -1,7 +1,6 @@
-# mobile
+# mobile!!
 
 mobile application developed by flutter. 
-
 ## Getting Started
 
 ### iOS
