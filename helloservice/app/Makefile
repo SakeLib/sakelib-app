@@ -10,7 +10,7 @@ cloudrun-deploy:
 
 PHONY: gae-standard-deploy
 gae-standard-deploy:
-	gcloud app deploy gae/standard/app.yaml
+	gcloud app deploy 
 
 PHONY: gae-flex-deploy
 gae-flex-deploy:
